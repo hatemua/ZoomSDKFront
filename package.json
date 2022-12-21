@@ -14,6 +14,7 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "@zoomus/websdk": "^2.9.5",
+    "chokidar": "^3.5.3",
     "react": "^17.0.1",
     "react-dev-utils": "^11.0.4",
     "react-dom": "^17.0.1",
